@@ -1,0 +1,16 @@
+[
+    {
+        "request": {
+            "url": "/todos",
+            "method": "get"
+        },
+        "response": {
+            "code": 200,
+            "body": [
+            	{
+            		title: "Hello!"
+            	}
+            ]
+        }
+    }
+]
